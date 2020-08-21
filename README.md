@@ -86,7 +86,7 @@ In the Server <strong>2</strong> console we are going to execute the following c
 </pre>
 Remember to change the Api Key for the value copied in the previous step.
 
-Notes:
+Notes:<br>
 •	The Sonata Switchboard license must be installed on the Master Server. This is because Sonata Switchboard connects directly to the Master Server via API and it needs to display the information in real time.
 •	You can install Sonata Recording, Sonata Billing, and Sonata Stats on the application server. In this case the license must be on the application server. No additional configuration is necessary.
 
