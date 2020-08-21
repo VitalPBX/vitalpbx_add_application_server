@@ -1,6 +1,6 @@
 VitalPBX Application Server Setup
 =====
-HSometimes it is necessary to have certain applications on a server that is not the same one that handles phone calls. For example, if we want the Sonata Suite to be on a separate server.
+Sometimes it is necessary to have certain applications on a server that is not the same one that handles phone calls. For example, if we want the Sonata Suite to be on a separate server.
 In this manual we will explain the steps to follow to achieve this goal.
 
 ## Example:<br>
