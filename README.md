@@ -94,5 +94,5 @@ Notes:<br>
 If you want more information about Add Application Server in VitalPBX we invite you to see the following manual<br>
 [Add Application Server Manual, step by step](https://github.com/VitalPBX/vitalpbx_ha_app_server/raw/master/VitalPBX3.0AppServerSetup.pdf)
 
-<strong>CONGRATULATIONS</strong>, you have installed and tested the high availability in <strong>VitalPBX 3</strong><br>
+<strong>CONGRATULATIONS</strong>, you have installed Application Server in <strong>VitalPBX 3</strong><br>
 :+1:
