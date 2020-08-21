@@ -92,7 +92,7 @@ Notes:<br>
 
 ## More Information
 If you want more information that will help you solve problems about High Availability in VitalPBX we invite you to see the following manual<br>
-[High Availability Manual, step by step](https://github.com/VitalPBX/vitalpbx_ha_app_server/raw/master/VitalPBX3.0AppServerSetup.pdf)
+[Add Application Server Manual, step by step](https://github.com/VitalPBX/vitalpbx_ha_app_server/raw/master/VitalPBX3.0AppServerSetup.pdf)
 
 <strong>CONGRATULATIONS</strong>, you have installed and tested the high availability in <strong>VitalPBX 3</strong><br>
 :+1:
