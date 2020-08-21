@@ -9,10 +9,10 @@ In this manual we will explain the steps to follow to achieve this goal.
 -----------------
 ## Prerequisites
 In order to install VitalPBX the App Server you need the following:<br>
-a.- 2 IP addresses.
-b.- Install VitalPBX version 3 or higher on two servers.
-c.- MariaDB (include in VitalPBX 3)
-d.- Lsyncd.
+a.- 2 IP addresses.<br>
+b.- Install VitalPBX version 3 or higher on two servers.<br>
+c.- MariaDB (include in VitalPBX 3)<br>
+d.- Lsyncd.<br>
 
 ## Configurations
 We will configure in each server the IP address and the host name. Go to the web interface to: <strong>Admin>System Settinngs>Network Settings</strong>.<br>
