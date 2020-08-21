@@ -91,7 +91,7 @@ Notes:<br>
 •	You can install Sonata Recording, Sonata Billing, and Sonata Stats on the application server. In this case the license must be on the application server. No additional configuration is necessary.
 
 ## More Information
-If you want more information that will help you solve problems about Add Application Server in VitalPBX we invite you to see the following manual<br>
+If you want more information about Add Application Server in VitalPBX we invite you to see the following manual<br>
 [Add Application Server Manual, step by step](https://github.com/VitalPBX/vitalpbx_ha_app_server/raw/master/VitalPBX3.0AppServerSetup.pdf)
 
 <strong>CONGRATULATIONS</strong>, you have installed and tested the high availability in <strong>VitalPBX 3</strong><br>
