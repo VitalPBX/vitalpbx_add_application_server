@@ -48,6 +48,7 @@ Now try logging into the machine, with:   "ssh 'root@192.168.10.62'"
 and check to make sure that only the key(s) you wanted were added. 
 
 [root@vitalpbx<strong>1</strong> ~]#
+</pre>
 
 ## Installing from Scripts
 Now copy and run the following script<br>
