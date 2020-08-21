@@ -57,7 +57,7 @@ Now copy and run the following script<br>
 [root@ vitalpbx<strong>1</strong> ~]# cd /usr/share/vitalpbx/appserver
 [root@ vitalpbx<strong>1</strong> ~]# wget https://raw.githubusercontent.com/VitalPBX/vitalpbx_add_application_server/master/vpbxappserver.sh
 [root@ vitalpbx<strong>1</strong> ~]# chmod +x vpbxappserver.sh
-[root@ vitalpbx<strong>1</strong> ~]# ./ vpbxappserver.sh
+[root@ vitalpbx<strong>1</strong> ~]# ./vpbxappserver.sh
 
 ************************************************************
 *     Welcome to the VitalPBX App Server installation      *
