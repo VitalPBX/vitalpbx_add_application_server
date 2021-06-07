@@ -1,6 +1,7 @@
 VitalPBX Application Server Setup
 =====
 ## This is a proof of concept. If you implement it, it is at your own risk.<br>
+## VitalPBX Teams does not support this type of implementation.<br>
 Sometimes it is necessary to have certain applications on a server that is not the same one that handles phone calls. For example, if we want the Sonata Suite to be on a separate server.
 In this manual we will explain the steps to follow to achieve this goal.
 
